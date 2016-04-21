@@ -9,6 +9,6 @@ the 8 line
 the 9 line
 the 10 line
 Creating a new branch is quick.
-Creating a new branch is quick & simple.
+Creating a new branch is quick AND simple.
 
 
